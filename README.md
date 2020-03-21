@@ -1,4 +1,4 @@
-# Tripcart Next.js demo store
+# Tripcarte / Next.js demo store
 
 > 🛍 Next.js demo store built with moltin
 <img src="https://github.com/gispatial/nextjs-demo-store/blob/master/static/tc-nextjs.png" width="100%">
