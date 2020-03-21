@@ -1,14 +1,14 @@
 {
-  "name": "Next.js Demo Store",
-  "description": "A barebones Next.js store powered by moltin",
-  "repository": "https://github.com/moltin/nextjs-demo-store",
-  "logo": "https://www.moltin.com/img/icons/favicons/apple-touch-icon.png",
+  "name": "Tripcarte Next.js Store",
+  "description": "A barebones Next.js store powered by Stripe",
+  "repository": "https://github.com/gispatial/tripcarte-nextjs-store",
+  "logo": "http://tripcarte.gispatial.tech/api/wp-content/uploads/2020/03/tc-white-large.png",
   "keywords": ["moltin", "react", "ecommerce", "next.js", "ssr"],
   "success_url": "/",
   "env": {
     "MOLTIN_CLIENT_ID": {
       "description":
-        "The client_is is the unique ID associated with your store. You can find this inside your moltin Dashboard.",
+        "The client_is is the unique ID associated with your store. You can find this inside your WP Dashboard.",
       "value": "EdP3Gi1agyUF3yFS7Ngm8iyodLgbSR3wY4ceoJl0d2"
     },
     "STRIPE_KEY": {

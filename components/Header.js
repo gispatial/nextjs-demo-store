@@ -18,11 +18,10 @@ export default ({ token }) => (
         <Link href="/" prefetch passHref>
           <Menu.Item as="a" header>
             <Image
-              size="mini"
-              src="/static/moltin-light-hex.svg"
+              size="small"
+              src="/static/logo-main3.svg"
               style={{ marginRight: '1.5em' }}
             />
-            NextJS Store
           </Menu.Item>
         </Link>
 

@@ -12,7 +12,7 @@ export default ({
     <Segment clearing size="large">
       <strong>Sub total:</strong> {formatted}
       <StripeCheckout
-        name="NextJS Demo Store"
+        name="Tripcarte Payment Gateway"
         amount={amount}
         currency={currency}
         stripeKey={process.env.STRIPE_PUBLISHABLE_KEY}

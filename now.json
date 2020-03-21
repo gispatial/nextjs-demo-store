@@ -1,5 +1,5 @@
 {
-  "alias": "moltin-nextjs-demo-store",
+  "alias": "tripcarte-nextjs",
   "dotenv": true,
   "env": {
     "NODE_ENV": "production"

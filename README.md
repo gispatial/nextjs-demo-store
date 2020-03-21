@@ -1,20 +1,20 @@
-# Next.js demo store
+# Tripcart Next.js demo store
 
 > 🛍 Next.js demo store built with moltin
 
-Next.js webshop built using [Stripe checkout](https://stripe.com/checkout) and [moltin](https://moltin.com).
+Tripcarte Next.js webshop built using [Stripe checkout](https://stripe.com/checkout) and [NextJs](https://nextjs.org/).
 
-Check out the [demo](https://moltin-nextjs-demo-store.now.sh) here.
+Check out the [demo](https://tripcarte-nextjs.now.sh) here.
 
 ## 🛠 Setup
 
-Both a moltin and Stripe account are needed for this store to run successfully.
+Both a NextJs and Stripe account are needed for this store to run successfully.
 
 Create a `.env` file at the project root with your moltin `client_id` and Stripe test `publishable key`.
 
 ```dosini
-MOLTIN_CLIENT_ID=
-STRIPE_PUBLISHABLE_KEY=
+MOLTIN_CLIENT_ID=EdP3Gi1agyUF3yFS7Ngm8iyodLgbSR3wY4ceoJl0d2
+STRIPE_PUBLISHABLE_KEY=pk_test_YvaYt7H7fRhqC2IzoGQXEolw00yM6dqVMK
 ```
 
 `npm install`
